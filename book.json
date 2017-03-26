@@ -11,6 +11,8 @@
                         {
                             "lang": "go",
                             "name": "Go"
+                        },
+                        {
                              "direction": "rtl",
                              "language": "ar"
                         }
