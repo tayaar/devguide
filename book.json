@@ -1,18 +1,20 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": [ "theme-api","fontsettings" ],
     "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
-        }
+                "theme-api": {
+                    "languages": [
+                        {
+                            "lang": "js",
+                            "name": "JavaScript",
+                            "default": true
+                        },
+                        {
+                            "lang": "go",
+                            "name": "Go"
+                        }
+                    ] 
+                              
+                } 
     }
+    
 }
